@@ -36,7 +36,7 @@ Other individual costs will include: dinner the night before and after the confe
 
 ## Advice about the location
 
-Llandegfan (pronounce the double-l like hl) is located on the island of Angelesey off the northwest corner of Wales. Snowdonia National Park is the thing you may have heard of that's nearby. 
+Llandegfan (pronounce the double-l like hl) is located on the island of Angelesey off the northwest corner of Wales, just across the water from Bangor. Snowdonia National Park is the thing you may have heard of that's nearby. 
 
 ### How to get there
 
@@ -54,7 +54,7 @@ Bangor is just over the water from Menai Bridge, and Caernarfon is a 20-minute d
 
 ### When to do what
 
-The event has been held on the last Saturday of June for all three editions so far. The date for 2025 has not yet been announced. 
+The event has been held on the last Saturday of June for all three editions so far. The date for 2025 will be Saturday July 12th. 
 
 There are a couple milestones ahead of the event: 
 
@@ -66,7 +66,7 @@ The rough schedule for what happens each day of the trip so you know how to plan
 
 - Thursday: Hike, weather permitting
 - Friday: Dinner together in Menai Bridge or Bangor
-- Saturday: peer conference at the Llandedgan Parish Hall, followed by dinner together in Menai Bridge or Bangor
+- Saturday: Peer conference at the Llandedgan Parish Hall, followed by dinner together in Menai Bridge or Bangor
 - Sunday: Hike, regardless of the weather
 
 On Saturday, the peer conference schedule usually looks something like: 
@@ -78,5 +78,3 @@ On Saturday, the peer conference schedule usually looks something like:
 - 18:00 closing
 
 Breaks are co-determined by the facilitator and the rest of the participants. 
-
-
