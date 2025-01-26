@@ -14,6 +14,8 @@ This group has a very DIY, "oh yeah, forgot about that, good idea!" kind of a vi
 
 Discussions during the peer conference are [facilitated with K-cards](https://smallsheds.garden/blog/2022/structuring-group-discussions-with-k-cards/) and, while insightful, generally not annoying. 
 
+We have a short and simple code of conduct: kindness, consideration, respect.
+
 Most attendees drive to the event, so there'll be extra spots for a ride to the event, dinner, or the hike the following day. 
 
 ## Previous Editions
