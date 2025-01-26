@@ -12,7 +12,7 @@ Chris Chant (who lives in Llandegfan) and Joep Schuurkes organize LLEWT. Contact
 
 This group has a very DIY, "oh yeah, forgot about that, good idea!" kind of a vibe. We share in the setup and teardown of the very neighborhood-y space. If you're feeling like your question hasn't been answered, ask, no worries. 
 
-Discussions during the peer conference are [facilitated with K-cards](https://j19sch.github.io/blog/2022/structuring-group-discussions-with-k-cards/) and, while insightful, generally not annoying. 
+Discussions during the peer conference are [facilitated with K-cards](https://smallsheds.garden/blog/2022/structuring-group-discussions-with-k-cards/) and, while insightful, generally not annoying. 
 
 Most attendees drive to the event, so there'll be extra spots for a ride to the event, dinner, or the hike the following day. 
 
@@ -20,9 +20,9 @@ Most attendees drive to the event, so there'll be extra spots for a ride to the 
 
 See the attendee list, schedule, rules, and proposed lineup from past editions buried in the HTML here: 
 
-- [2022](https://github.com/j19sch/slides/blob/master/llewt-2022.html)
-- [2023](https://github.com/j19sch/slides/blob/master/llewt-2023.html)
-- [2024](https://github.com/j19sch/slides/blob/master/llewt-2024.html)
+- [2022](https://smallsheds.garden/slides/llewt-2022.html#/)
+- [2023](https://smallsheds.garden/slides/llewt-2023.html#/)
+- [2024](https://smallsheds.garden/slides/llewt-2024.html#/)
 
 ## Costs
 
