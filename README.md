@@ -12,11 +12,23 @@ Chris Chant (who lives in Llandegfan) and Joep Schuurkes organize LLEWT. Contact
 
 This group has a very DIY, "oh yeah, forgot about that, good idea!" kind of a vibe. We share in the setup and teardown of the very neighborhood-y space. If you're feeling like your question hasn't been answered, ask, no worries. 
 
-Discussions during the peer conference are [facilitated with K-cards](https://smallsheds.garden/blog/2022/structuring-group-discussions-with-k-cards/) and, while insightful, generally not annoying. 
-
 We have a short and simple code of conduct: kindness, consideration, respect.
 
 Most attendees drive to the event, so there'll be extra spots for a ride to the event, dinner, or the hike the following day. 
+
+
+## But what is it?
+
+LLEWT is a peer conference, meaning the main goal is to confer with peers.
+
+Each participant is expected to prepare an experience report related to the theme of the conference. An experience report is a story about something you experienced and your reflections about that experience. It should take about 10-15 minutes to present it to the group.
+
+After the presentation we have a group discussion about the experience report, [facilitated with K-cards](https://smallsheds.garden/blog/2022/structuring-group-discussions-with-k-cards/). These discussions tend to - and are meant to - last significantly longer than the presentation. We prefer a curious attitude over a challenging one during these discussions and asking permission before challenging the presenter on their experience or reflection.
+
+Due to time constraints not every participant will be presenting their experience report. So take that into account when preparing. Don't go full conference talk-level. Prepare what you need to convey your story and kick off the group discussion.
+
+Who gets to present is decided ahead of time by Joep with input from the participants. The reason for this is to have a single person to address when you have any issues with the program.
+
 
 ## Previous Editions
 
@@ -54,7 +66,7 @@ Bangor is just over the water from Menai Bridge, and Caernarfon is a 20-minute d
 
 ### When to do what
 
-The event has been held on the last Saturday of June for all three editions so far. The date for 2025 will be Saturday July 12th. 
+The event has been held on the last Saturday of June for all three editions so far. The date for 2025 will be Saturday July 12th. The theme for 2025 is "Rules and constraints to ensure better quality."
 
 There are a couple milestones ahead of the event: 
 
