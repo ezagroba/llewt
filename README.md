@@ -2,10 +2,13 @@
 What you need to know about the Llandegfan Exploratory Workshop in Testing in Wales
 
 ## 2025 edition
-Event: Saturday, July 12
-(optional) Dinner with everyone: Friday and Saturday July 11 and 12
-(optional) Hike: Friday July 10 and Sunday July 13
 
+### Dates
+- Event: Saturday, July 12
+- (optional) Dinner with everyone: Friday and Saturday July 11 and 12
+- (optional) Hike: Friday July 10 and Sunday July 13
+
+### Participants
 Confirmed participants so far:
 - Chris
 - Joep
@@ -15,7 +18,6 @@ Confirmed participants so far:
 - Vernon
 - Maaike
 - Oliver
-
 
 ## Organizers
 
