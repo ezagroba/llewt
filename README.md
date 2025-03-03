@@ -1,6 +1,22 @@
 # LLEWT
 What you need to know about the Llandegfan Exploratory Workshop in Testing in Wales
 
+## 2025 edition
+Event: Saturday, July 12
+(optional) Dinner with everyone: Friday and Saturday July 11 and 12
+(optional) Hike: Friday July 10 and Sunday July 13
+
+Confirmed participants so far:
+- Chris
+- Joep
+- Elizabeth
+- Gwen
+- Ash
+- Vernon
+- Maaike
+- Oliver
+
+
 ## Organizers
 
 Chris Chant (who lives in Llandegfan) and Joep Schuurkes organize LLEWT. Contact one (or both) of them to get personally invited. 
